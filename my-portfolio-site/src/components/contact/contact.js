@@ -19,7 +19,6 @@ export default function Contact() {
                 <h3>GitHub: <a href="https://github.com/BillyBernard" target="_blank" rel="noreferrer">https://github.com/BillyBernard</a></h3>
                 <h3>Email: williamparis26@gmail.com</h3>
                 </address>
-                <img src="/images/Mail.png" alt="Mail"/>
                 <h4>Copyright &#169; William Paris</h4>
             </div>
             <div className="right">
