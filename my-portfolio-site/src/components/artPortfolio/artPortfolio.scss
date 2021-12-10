@@ -29,6 +29,7 @@
         .textContainer {
             padding-left: 10%;
             padding-top: 10%;
+
         h1 {
             padding-top: 30%;
             padding-bottom: 5%;
@@ -48,9 +49,9 @@
         span {
             color: #996633;
 
-            &:hover {
-                cursor: pointer;
-            }
+                &:hover {
+                    cursor: pointer;
+                }
         }
     }
     }
